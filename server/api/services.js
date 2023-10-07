@@ -16,7 +16,7 @@ export default defineEventHandler(() => {
       id: 2,
       title: 'C',
       description: {
-        en: 'For an app, I also use C',
+        en: 'I also use C to develop some cool apps',
         id_ID: 'Pour développer des applications j\'utilise également le langage C',
       },
       icon: 'devicon:c',
