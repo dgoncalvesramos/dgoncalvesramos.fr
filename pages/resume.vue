@@ -1,4 +1,4 @@
-<script setup>
+	<script setup>
 useHead({
   title: 'Resume',
 })
@@ -23,7 +23,7 @@ useHead({
             Budapest, Hungary
           </p>
           <p class="timeline-text">
-            Backend JAVA/JEE design and development engineer
+            Software Engineer : Participation in the development of a smart metering system for value-added terminals (Linky meters)
           </p>
         </li>
         
@@ -36,7 +36,7 @@ useHead({
             Paris, France
           </p>
           <p class="timeline-text">
-            Backend JAVA/JEE design and development engineer
+             Software Engineer : Participation in the development and operational maintenance of the information system for centralizing orders of new insurance contracts for French investors abroad on behalf of BPI France
           </p>
          </li>
           
@@ -49,7 +49,7 @@ useHead({
             Paris, France
           </p>
           <p class="timeline-text">
-            Backend JAVA/JEE design and development engineer
+             Software Engineer : Participation in the development of new features on a cloud service for the mobile telephony clients of Synchronoss Technology.
           </p>
         </li>
         <li class="timeline-item">
@@ -61,22 +61,23 @@ useHead({
             Paris, France
           </p>
           <p class="timeline-text">
-            Backend JAVA/JEE design and development engineer
+           Software Engineer : Participation in the iterative development of the web portal for centralizing orders of value-added service numbers on behalf of Orange Business Lab
           </p>
         </li>
       </ol>
     </section>
     
 
-    <!-- <section class="skill">
+    <!--<section class="skill">
       <ul class="skills-list content-card">
         <li class="skills-item">
           <div class="title-wrapper">
             <h5 class="h5">
-              JAVA/JEE 
+              JAVA 
             </h5>
             <data value="90">90%</data>
           </div>
+          
            <div class="skill-progress-bg">
             <div class="skill-progress-fill" style="width: 90%;" />
           </div>
@@ -93,6 +94,6 @@ useHead({
         </li>
 
       </ul>
-    </section> -->
+    </section>>-->
   </article>
 </template>
