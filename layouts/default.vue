@@ -7,7 +7,7 @@ useHead({
     lang: locale,
   },
   titleTemplate: (pageTitle) => {
-    return pageTitle ? `${pageTitle} - David Gonçalves Ramos ` : 'David Gonçalves Ramos'
+    return pageTitle ? `${pageTitle} - David Gonçalves Ramos | Software Engineer` : 'David Gonçalves Ramos | Software Engineer'
   },
   meta: [
       { charset: 'utf-8' },
